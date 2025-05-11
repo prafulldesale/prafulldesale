@@ -3,7 +3,7 @@
 🔧 DevOps Engineer | ☁️ Cloud Infrastructure | 🐳 Docker & ☸️ Kubernetes Specialist  
 
 🚀 **About Me**  
-- 2+ years of experience automating cloud infrastructure (AWS/Azure), CI/CD pipelines, Linux Administration, Compliacne and Security. 
+2+ years of experience automating cloud infrastructure (AWS/Azure), CI/CD pipelines, Linux Administration, Compliacne and Security. 
 
 📂 **What’s in This Repository?**  
 This repo showcases infrastructure projects I’ve designed and deployed. 
@@ -12,7 +12,7 @@ This repo showcases infrastructure projects I’ve designed and deployed.
 
 ![AWS Architecture](./assets/AWS_arch.drawio.svg)
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
   2. Microservices Architecture (django apps on Kubernetes). 
 
 ---
