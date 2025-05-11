@@ -1,3 +1,9 @@
+## 🏗️ System Architecture Diagram
+
+![AWS Architecture](./assets/AWS_arch.drawio.svg)
+
+
+
 ## Hi there 👋
 # 👋 Hi there! I'm Prafulla Desale
 
