@@ -11,7 +11,7 @@ This repo showcases infrastructure projects I’ve designed and deployed:
 🏗️ **System Architectures**:  
   1. Monolithic Architecture (Ruby on Rails App on AWS EC2).  
 
-![AWS Architecture](./assets/AWS_arch.drawio.svg)
+![AWS Architecture](./assets/Diagram.drawio.svg)
 
 🔭 I’m currently working on ...
   2. Microservices Architecture (django apps on Kubernetes). 
