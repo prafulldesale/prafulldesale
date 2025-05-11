@@ -1,23 +1,23 @@
+# Hi there! 👋  
+**I'm Prafulla Desale**  
+🔧 DevOps Engineer | ☁️ Cloud Infrastructure | 🐳 Docker & ☸️ Kubernetes Specialist  
 
-## Hi there 👋
-# 👋 Hi there! I'm Prafulla Desale
-🔧 **DevOps Engineer** | ☁️ AWS / Azure | 🐳 Docker | ☸️ Kubernetes  
-💻 2+ years experience in cloud infrastructure, CI/CD, and automation, Linux Administration and Networking. 
+🚀 **About Me**  
+- 2+ years of experience automating cloud infrastructure (AWS/Azure), CI/CD pipelines, Linux Administration, Compliacne and Security. 
 
-This repository documents infrastructure I’ve implemented for Monolithic as well as microservice:
-## 🏗️ System Architectures:
-# 1. Monolithic Architecture. 
-
+📂 **What’s in This Repository?**  
+This repo showcases infrastructure projects I’ve designed and deployed, including:  
+🏗️ **System Architectures**:  
+  1. Monolithic Architecture (e.g., ROR app on EC2).  
 
 ![AWS Architecture](./assets/AWS_arch.drawio.svg)
 
-# 2. Microservices Architecture. (In Progress)
+- 🔭 I’m currently working on ...
+  2. Microservices Architecture (django apps on Kubernetes). 
 
 ---
 
 ### 🚀 Projects
-- 🧼 [Uniify Salon App](https://github.com/yourusername/uniify-salon) – Salon booking app (Django + Kubernetes)
-- 🛠️ [CI/CD Pipeline with GitHub Actions](https://github.com/yourusername/devops-pipeline)
 
 ---
 
@@ -30,7 +30,7 @@ This repository documents infrastructure I’ve implemented for Monolithic as we
 ---
 
 ### 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/prafull-desale)  
 
 ---
 
