@@ -6,7 +6,8 @@
 2+ years of experience automating cloud infrastructure (AWS/Azure), CI/CD pipelines, Linux Administration, Compliacne and Security. 
 
 📂 **What’s in This Repository?**  
-This repo showcases infrastructure projects I’ve designed and deployed. 
+This repo showcases infrastructure projects I’ve designed and deployed:
+
 🏗️ **System Architectures**:  
   1. Monolithic Architecture (Ruby on Rails App on AWS EC2).  
 
