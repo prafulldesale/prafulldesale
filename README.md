@@ -1,14 +1,17 @@
-## 🏗️ System Architecture Diagram
-
-![AWS Architecture](./assets/AWS_arch.drawio.svg)
-
-
 
 ## Hi there 👋
 # 👋 Hi there! I'm Prafulla Desale
-
 🔧 **DevOps Engineer** | ☁️ AWS / Azure | 🐳 Docker | ☸️ Kubernetes  
-💻 3+ years experience in cloud infrastructure, CI/CD, and automation.
+💻 2+ years experience in cloud infrastructure, CI/CD, and automation, Linux Administration and Networking. 
+
+This repository documents infrastructure I’ve implemented for Monolithic as well as microservice:
+## 🏗️ System Architectures:
+# 1. Monolithic Architecture. 
+
+
+![AWS Architecture](./assets/AWS_arch.drawio.svg)
+
+# 2. Microservices Architecture. (In Progress)
 
 ---
 
