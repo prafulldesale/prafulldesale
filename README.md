@@ -1,6 +1,5 @@
 # Hi there! 👋  
 **I'm Prafulla Desale**  
-🔧 DevOps Engineer | ☁️ Cloud Infrastructure | 🐳 Docker & ☸️ Kubernetes Specialist  
 
 🚀 **About Me**  
 2+ years of experience automating cloud infrastructure (AWS/Azure), CI/CD pipelines, Linux Administration, Compliacne and Security. 
