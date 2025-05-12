@@ -34,8 +34,6 @@ This repo showcases infrastructure projects I’ve designed and deployed:
 
 ---
 
-### 📊 GitHub Stats
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
 
 <!--
